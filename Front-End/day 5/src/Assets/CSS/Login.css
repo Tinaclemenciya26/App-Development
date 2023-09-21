@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body #login-root{
+    
+    background-size: cover;
+    height: 100vh;
+}
+header {
+    background-color: #aba9a9; /* Change to your desired background color */
+    color: white; /* Change to your desired text color */
+    padding: 2%; /* Add other styling as needed */
+  }
+#email , #name{
+    padding-left: 10px;
+}
+#password{
+    padding-left: 10px;
+    border: 5px rgb(226, 226, 232);
+}
