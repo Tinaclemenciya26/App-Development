@@ -1,0 +1,64 @@
+/* Add these CSS styles to your Footer.css file */
+
+.footer {
+  background-color: #0f0404; /* Background color for the footer */
+  color: #fff; /* Text color for the footer */
+  padding: 30px;
+  width: 100%;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-section {
+  flex: 1;
+  margin-right: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+h3.footer-section {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+/* Modify the color for the links within the ul li element here */
+ul li a {
+  color: #edf1f4; /* Change the color to your desired color (e.g., blue) */
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+ul li a:hover {
+  color: #eff2f4; /* Change the color on hover if desired */
+}
+
+.social-media-links {
+  list-style: none;
+  padding: 0;
+}
+
+.social-media-links li {
+  color: white;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-media-links a img {
+  width: 32px; /* Set the width of your social media images */
+  height: 32px; /* Set the height of your social media images */
+  border: none; /* Remove any border around the images */
+  alt: ''; /* Provide an alternative text for accessibility */
+}
+
+/* Add more styles as needed */

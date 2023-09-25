@@ -1,0 +1,46 @@
+/* Add these CSS styles to your TermsandConditions.css file */
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Background color for the container */
+    color: #333; /* Text color */
+    line-height: 1.5; /* Line height for better readability */
+  }
+  
+  h4.container {
+    color: black;
+    font-size: 28px; /* Font size for the title */
+    font-weight: bold; /* Font weight for emphasis */
+    margin-bottom: 20px; /* Margin for spacing */
+  }
+  
+  h2 {
+    font-size: 20px; /* Font size for section headings */
+    font-weight: bold; /* Font weight for emphasis */
+    margin-top: 20px; /* Margin for spacing */
+    margin-bottom: 10px; /* Margin for spacing */
+  }
+  
+  p {
+    font-size: 16px; /* Font size for paragraphs */
+    margin-bottom: 15px; /* Margin for spacing */
+  }
+  
+  ul {
+    list-style-type: disc; /* Use bullets for lists */
+    margin-left: 20px; /* Left margin for lists */
+  }
+  
+  a {
+    color: #007bff; /* Link color */
+    text-decoration: underline; /* Underline links */
+  }
+  
+  /* Style links on hover for better user feedback */
+  a:hover {
+    color: #0056b3;
+  }
+  
