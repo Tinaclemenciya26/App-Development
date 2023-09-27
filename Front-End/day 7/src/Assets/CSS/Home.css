@@ -1,0 +1,30 @@
+
+
+.homepage {
+    text-align: center;
+    padding: 50px;
+  }
+  body {
+
+    
+    height: 100vh;
+}
+  
+  h5 {
+    font-family:Arial, Helvetica, sans-serif; /* Specify the desired font family */
+    font-size: 70px; /* Specify the font size */
+    font-weight: bold; /* Specify the font weight (e.g., normal, bold) */
+   
+    /* You can add more font-related styles as needed */
+  color: #1b1414;
+  padding: 2%;
+  text-align: center;
+  }
+  h1{
+    font-family:sans-serif;
+    font-size: 25px;
+    margin: 10px;
+  }
+  
+  /* Add more styles as needed */
+  
